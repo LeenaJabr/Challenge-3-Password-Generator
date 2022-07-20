@@ -1,6 +1,8 @@
-Javascript-Password-Generator
-Description
+# Javascript-Password-Generator
+## Description
 A psuedo-code produced Javascript Password generator. A big problem-solving task was incorporating the random password input/output chain for the user. 
+
+## How To
 
 ![Step 1 - Generate PW](https://user-images.githubusercontent.com/107494937/180036640-829cfd3d-9f4b-4511-8dd3-2e86dec361af.PNG)
 
